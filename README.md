@@ -13,13 +13,13 @@ BSc Physical Science with Chemistry (GPA: 8.93/10)
 
 # PROJECTS
 
-**Web Scraping - LinkedIn Courses[(View)](https://jovian.com/bhavyab1375/linkedin-learning-courses-web-scraping-6)**
+**Web Scraping - LinkedIn Courses [(View)](https://jovian.com/bhavyab1375/linkedin-learning-courses-web-scraping-6)**
 
 * Scraped the different courses’ details offered by Linkedin Learning using Selenium & Python
 * Built functions such as parse_course_details(), create_csv() etc. to scrape title, rating, duration etc. 
 * Stored the data consisting of 242 rows and 9 columns in combined-dataset.csv using pandas.
 
-**Exploratory Data Analysis - Social Unrest in India[(View)](https://jovian.com/bhavyab1375/social-unrest-in-india)**
+**Exploratory Data Analysis - Social Unrest in India[ (View)](https://jovian.com/bhavyab1375/social-unrest-in-india)**
 
 * The dataset has 1070690 rows and 31 columns, providing insights into social unrest in India and its impact on other factors.
 * I conducted EDA using libraries like seaborn, matplotlib, geopandas, and Plotly in Python.
@@ -32,7 +32,7 @@ BSc Physical Science with Chemistry (GPA: 8.93/10)
 * The Tableau dashboard is a great example of how data visualizations can provide valuable insights into real-world datasets.
 
 
-**Analysis of the Sakila Database Using SQL (Mini Project)[(View)](https://jovian.com/bhavyab1375/sakila-sql-project)**
+**Analysis of the Sakila Database Using SQL (Mini Project) [(View)](https://jovian.com/bhavyab1375/sakila-sql-project)**
 
 * I used SQL queries to extract data and answer business questions about DVD rentals.
 * I employed advanced SQL techniques such as joins and subqueries for data combination and computation.
